@@ -1,4 +1,4 @@
-# cmms
+# Shop app with GetX
 
 A new Flutter project.
 
