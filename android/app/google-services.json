@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "107740791615",
+    "project_id": "cmms-techpro-testing",
+    "storage_bucket": "cmms-techpro-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107740791615:android:768baa74bd794344e3c98a",
+        "android_client_info": {
+          "package_name": "com.votandao.getx_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107740791615-k5h7jfq4psa5q34r2urc8m7b31v2i3k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxODFXDuxwAwe6Wci5a764-fjIiidgTOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107740791615-k5h7jfq4psa5q34r2urc8m7b31v2i3k6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107740791615-c3bgfb1amh4ugt76jqnp5utvenpkcan6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.votandao.getx_example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

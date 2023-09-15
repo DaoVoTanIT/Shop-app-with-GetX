@@ -1,0 +1,8 @@
+  cd ios/
+  pod cache clean --all
+  pod deintegrate --verbose
+  pod setup --verbose
+  pod install --verbose
+
+  flutter build apk --release --no-sound-null-safety
+  flutter build ipa --release --no-sound-null-safety
